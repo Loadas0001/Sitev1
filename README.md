@@ -7,7 +7,8 @@
 - Personalização de cores.
 - Desenvolvido com frot-end e back-end
 - Site feito usando, HTML, Sass e JavaScript.
+- Base feita por cima da base do Bimcode
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/channel/UC90xGxqsDpa8gBZyZeROmmg)
+[Gustavo silva](https://www.youtube.com/channel/UC90xGxqsDpa8gBZyZeROmmg)
 
 ![Delivery website](/preview.png)
